@@ -12,6 +12,7 @@
 		9A01A63F22F96A450035E7E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A01A63D22F96A450035E7E5 /* Main.storyboard */; };
 		9A01A64122F96A490035E7E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A01A64022F96A490035E7E5 /* Assets.xcassets */; };
 		9A01A64422F96A490035E7E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A01A64222F96A490035E7E5 /* LaunchScreen.storyboard */; };
+		9A01A64C22F96B730035E7E5 /* RedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A01A64B22F96B730035E7E5 /* RedViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9A01A64022F96A490035E7E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A01A64322F96A490035E7E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A01A64522F96A490035E7E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A01A64B22F96B730035E7E5 /* RedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				9A01A63922F96A450035E7E5 /* AppDelegate.swift */,
 				9A01A63B22F96A450035E7E5 /* ViewController.swift */,
 				9A01A63D22F96A450035E7E5 /* Main.storyboard */,
+				9A01A64B22F96B730035E7E5 /* RedViewController.swift */,
 				9A01A64022F96A490035E7E5 /* Assets.xcassets */,
 				9A01A64222F96A490035E7E5 /* LaunchScreen.storyboard */,
 				9A01A64522F96A490035E7E5 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A01A63C22F96A450035E7E5 /* ViewController.swift in Sources */,
+				9A01A64C22F96B730035E7E5 /* RedViewController.swift in Sources */,
 				9A01A63A22F96A450035E7E5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
